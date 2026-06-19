@@ -6,7 +6,7 @@ const testimonials = [
     name: "Rani Pratiwi",
     role: "Teknik Informatika",
     uni: "Universitas Indonesia",
-    img: "/img/testi 1.png",
+    img: "img/testi 1.png",
     rating: 5,
     review:
       "Asli ini penyelamat anak kosan banget. Kemarin paket bulanan dari rumah udah sampai di pos satpam tapi mager banget ngambil karena kosan gapake lift. Iseng bikin quest di Tolongin, bayar ceban, eh langsung diambilin sama kating tingkat akhir yang kebetulan lagi lewat. Praktis parah!",
@@ -16,7 +16,7 @@ const testimonials = [
     name: "Angela Saharja",
     role: "Manajemen",
     uni: "Universitas Gadjah Mada",
-    img: "/img/testi 2.png",
+    img: "img/testi 2.png",
     rating: 5,
     review:
       "Pas awal semester harus pindah kosan dan gak ada teman yang bisa dimintain tolong karena pada balik kampung. Nyoba pakai Tolongin buat nyari bala bantuan angkat-angkat kasur sama lemari. Dapet penolong yang sat-set dan ramah, harganya juga ramah di kantong mahasiswa.",
@@ -26,7 +26,7 @@ const testimonials = [
     name: "Muhammad Sumbul",
     role: "Ilmu Komunikasi",
     uni: "Universitas Airlangga",
-    img: "/img/testi 3.png",
+    img: "img/testi 3.png",
     rating: 5,
     review:
       "Lumayan banget buat nambah uang jajan daripada gabut nungguin jam kuliah berikutnya di kantin. Biasanya gua ambil quest yang ringan-ringan aja kayak beliin makan siang atau nitip fotokopi modul. Sejam-dua jam kelar, cuan langsung masuk dompet aplikasi.",
