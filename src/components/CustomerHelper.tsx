@@ -47,7 +47,7 @@ export function CustomerHelper() {
               
               {/* Gambar Karakter Wanita Diperbesar sesuai image_4b7361.jpg */}
               <div className="w-64 h-64 sm:w-72 sm:h-72 mb-2 flex items-center justify-center transition-transform duration-300 hover:scale-105">
-                <img src="/img/customer.png" alt="Customer" className="w-full h-full object-contain" loading="lazy" />
+                <img src="img/customer.png" alt="Customer" className="w-full h-full object-contain" loading="lazy" />
               </div>
 
               <h3 className="font-display font-bold text-[#0D3D20] text-xl">Butuh Bantuan?</h3>
@@ -70,7 +70,7 @@ export function CustomerHelper() {
               <PhoneFrame>
                 <div className="w-full h-full bg-[#F2F7F4] flex flex-col items-center justify-center p-5 text-center min-h-[380px]">
                   <img 
-                    src="/img/logo_wbg.png" 
+                    src="img/logo_wbg.png" 
                     alt="Logo Tolongin" 
                     className="w-full h-full object-contain max-w-[190px]" 
                     loading="lazy"
@@ -96,7 +96,7 @@ export function CustomerHelper() {
               
               {/* Gambar Karakter Pria Diperbesar sesuai image_4b7361.jpg */}
               <div className="w-64 h-64 sm:w-72 sm:h-72 mb-2 flex items-center justify-center transition-transform duration-300 hover:scale-105">
-                <img src="/img/penolong.png" alt="Helper" className="w-full h-full object-contain" loading="lazy" />
+                <img src="img/penolong.png" alt="Helper" className="w-full h-full object-contain" loading="lazy" />
               </div>
 
               <h3 className="font-display font-bold text-[#0D3D20] text-xl">Mau Dapat Cuan?</h3>
