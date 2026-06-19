@@ -3,25 +3,25 @@ import { Check } from "lucide-react";
 
 const problems = [
   {
-    img: "/img/problem 1.png", // Akan otomatis membaca problem 1 karena letaknya di path ini
+    img: "img/problem 1.png", // Akan otomatis membaca problem 1 karena letaknya di path ini
     title: "Harus pindahan kos sendirian",
     desc: "Bawa kardus, tas, dan perlengkapan naik turun tangga sendiri. Capek banget.",
     tag: "Pindahan",
   },
   {
-    img: "/img/problem 2.png", // Mempertahankan aset paket asli
+    img: "img/problem 2.png", // Mempertahankan aset paket asli
     title: "Tidak sempat mengambil paket",
     desc: "Lagi kelas atau di luar kota, padahal paket sudah datang di lobi kos.",
     tag: "Paket",
   },
   {
-    img: "/img/problem 3.png", // Akan otomatis membaca problem 3
+    img: "img/problem 3.png", // Akan otomatis membaca problem 3
     title: "Sedang sakit dan butuh makanan",
     desc: "Demam, nggak kuat keluar kos, tapi perut lapar dan obat habis.",
     tag: "Kesehatan",
   },
   {
-    img: "/img/problem 4.png", // Akan otomatis membaca problem 4
+    img: "img/problem 4.png", // Akan otomatis membaca problem 4
     title: "Ingin penghasilan tambahan",
     desc: "Uang saku habis awal bulan, butuh cuan fleksibel tanpa ngotorin jadwal kuliah.",
     tag: "Cuan",
